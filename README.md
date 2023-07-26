@@ -1,16 +1,20 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**SofiaNVarpp/SofiaNVarpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Sofia Nadal Varpp
 
-Here are some ideas to get you started:
+- Estou trabalhando como Professora da Disciplina de Pensamento Commputacional
+- No momento leciono aulas para 8º e 9º ano e 1º Ensino Médio.
+- Sou formada em Processos Gerenciais
+- Especialização Gestão Pública
+- Especialização Educação Especial e Psicomotricidade
+- Licenciada em Computação
+- Utilizo esse eespaço para compartilhar projetos desenvolvidos.
+- Utilizo Programação com Scratch e estou atualmente utilizando linguagem JavaScript no p5.js, utilizo [Alura] (https://www.alura.com.br/) com estudantes como livro didático.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode entrar em contato caso dúvidas 📫
+  
+  varpp.sofia@escola.pr.gov.br
+  ![]( https://media.tenor.com/H-t9vVp0XUsAAAAM/cartoon-workhard.gif)
+ 
+  
+  
