@@ -9,7 +9,7 @@ Meu nome é Sofia Nadal Varpp
 - Especialização Gestão Pública
 - Especialização Educação Especial e Psicomotricidade
 - Utilizo esse espaço para compartilhar projetos desenvolvidos.
-- Utilizo Programação com Scratch e estou atualmente utilizando linguagem JavaScript no p5.js, utilizo [Alura] (https://www.alura.com.br/) com estudantes como livro didático.
+- Utilizo Programação com Scratch e estou atualmente utilizando linguagem JavaScript no p5.js, utilizo [Alura] (https://www.alura.com.br) com estudantes como livro didático.
 
   ### Você pode entrar em contato caso dúvidas 📫
   
