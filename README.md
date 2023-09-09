@@ -16,4 +16,4 @@ Meu nome é Sofia Nadal Varpp
   varpp.sofia@escola.pr.gov.br
   ![]( https://media.tenor.com/H-t9vVp0XUsAAAAM/cartoon-workhard.gif)
   
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaEtxa4Ht7N6c6XKNRqNPwO_nF8Cnswn68fgHGXqohiw&s)
+![](https://lh5.googleusercontent.com/-4p6h5-4x5jk/UOoliUsdTRI/AAAAAAAAUK0/qGpbgQDy-k0/s270/bart.gif)
