@@ -9,10 +9,10 @@ Meu nome é Sofia Nadal Varpp
 - Licenciatura em Computação (UEPG)
 - Especialização Gestão Pública (UEPG)
 - Especialização Educação Especial e Psicomotricidade (FOCUS)
-- Especialização Educação Especial  e Inclusiva com Ênfase em Tecnologia Assistiva e Comunicação Alternativa
-- Especialiação Educação para a Infância Educação Infantil e anos iniciais do Ensino Fundamental
-- Especialização Tecnologias Digitais e Inovação na Educação.
-- Especialização Desenvolvimento em Aplicações WEB.
+- Especialização Educação Especial  e Inclusiva com Ênfase em Tecnologia Assistiva e Comunicação Alternativa (FACULDADE IGUAÇU)
+- Especialiação Educação para a Infância Educação Infantil e anos iniciais do Ensino Fundamental(FACULDADE IGUAÇU)
+- Especialização Tecnologias Digitais e Inovação na Educação.(FACULDADE IGUAÇU)
+- Especialização Desenvolvimento em Aplicações WEB.(FACULDADE IGUAÇU)
 - Utilizo esse espaço para compartilhar projetos desenvolvidos.
 - Utilizo Programação com Scratch e estou atualmente utilizando linguagem JavaScript no [p5.js](https://p5js.org), utilizo [Alura](https://wwww.alura.com.br)  com estudantes como livro didático.
 
